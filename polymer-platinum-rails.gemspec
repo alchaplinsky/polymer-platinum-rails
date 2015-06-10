@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Polymer platinum elements}
   spec.description   = %q{Polymer platinum elements for using in Ruby on Rails application}
-  spec.homepage      = "https://github.com/alchapone/polymer-gold-rails"
+  spec.homepage      = "https://github.com/alchapone/polymer-platinum-rails"
   spec.license       = "MIT"
 
   spec.files = Dir["{app,config,db,lib}/**/*", "Rakefile", "README.md"]

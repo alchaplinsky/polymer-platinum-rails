@@ -1,0 +1,7 @@
+{
+  "name": "polymer-platinum-rails",
+  "private": true,
+  "dependencies": {
+    "platinum-elements": "PolymerElements/platinum-elements#^1.0.0"
+  }
+}

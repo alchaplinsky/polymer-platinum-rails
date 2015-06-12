@@ -1,4 +1,5 @@
-# Polymer::Platinum::Rails
+# Warning
+#### Since `platinum elements` have circular dependencies with `iron`, `paper` and `neon` elements, consider using [polymer-elements-rails](https://github.com/alchapone/polymer-elements-rails) gem `v1.0.0.pre.rc.1`
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/polymer/platinum/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
 
